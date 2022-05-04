@@ -1,3 +1,62 @@
+# Story
+
+## 160,000 calls for service a year: How women are struggling with domestic violence in California 
+> For the past two decades, women have been disproportionately susceptible to domestic violence related homicides, according to California Department of Justice data. Many of them fell in love with the hopes of a “happily-ever-after.” Instead, they had to go through a storm that they had never seen coming. 
+
+_Junyao Yang_
+_May 4, 2022_
+
+Michelle started to notice something unsettling in the person she fell in love with initially. 
+
+When his sister called him after a fight with her partner, he would grab the gun and storm out right away. He would call his friend for an hour and curse the whole time. She realized when she was around him, she felt tense with anxiety and fear. 
+
+Then came that day. They were in the kitchen, fighting over the money he owed her mom. He grabbed a wok and bang it against the table. She ran to the bedroom, trying to call the police. He snatched her cell phone and hung up. She asked him to give her phone back.
+
+“Why would I? I paid for everything in the house. It’s all mine!” He said. 
+
+“I just want to run away. I want separation in every possible sense,” Michelle said. 
+
+Michelle is one of many women living in California who have gone through domestic violence. Many of them fell in love with the hopes of a “happily-ever-after.” Instead, they had to go through a storm that they had never seen coming. 
+
+In California, law enforcement agencies have received more than 160,000 calls for service that are related to domestic violence in 2020, data released by the California Department of Justice shows. 87 victims have died due to domestic violence, with 80% of them women.   
+
+For the past two decades, women have been disproportionately susceptible to domestic violence related homicides, according to California Department of Justice data. Every year from 2001 to 2020, most domestic violence related homicide victims are women. In 2013, the percentage is as high as 93%. 
+
+[![](Areachart_gender.png)](https://www.datawrapper.de/_/ayrvU/)
+
+For a woman, the most dangerous place for her is not out in the wild, but in her own home, where one would assume she feels the safest. More than 70% domestic violence related homicide cases happen in the victim’s own residence or a shared residence with someone else, likely the offender, data shows. 
+
+People of color and those coming from an immigrant background could also be more vulnerable when it comes to abuse. More than 33% of domestic violence related homicide victims from 2001 to 2020 are Hispanics or Latinos. 17% are black. Nearly 9% are Asian.  
+
+Not every survivor wants to file a criminal case against their partner, especially for those who don’t have much trust in law enforcement, which means this data likely only shows the tip of an iceberg. Many survivors who are abused by their partners never called the police for help. 
+
+Law enforcement also has a history of not taking domestic violence calls seriously enough. In the 1980s, it was common policy to delay response to domestic violence calls in the hopes that the problem would resolve itself, an early [study](https://www.ojp.gov/pdffiles1/nij/grants/215915.pdf) funded by the U.S. Department of Justice shows. 
+
+When the abuse is not physical, it’s even harder for survivors to prove to the law enforcement or the legal system that the abuse did happen. For immigrant survivors, language is the biggest barrier that stops them from telling their stories. 
+
+Alexis Bagon, a staff attorney at Asian Pacific Islander Legal Outreach, who works with domestic violence survivors, pointed out that it’s extremely difficult for people who don’t have the language accessibility to prove and talk extensively about their experiences of domestic violence.
+
+“Basically you have to say all the worst things that ever happened to you, in very clear detail, with great memory and corroboration," Bagon said.
+
+While most counties in California are receiving fewer domestic violence calls over the past two decades, some smaller counties are seeing an increase in the calls for service related to domestic violence. In Del Norte county, the far northwest corner of California, the average number of calls related to domestic violence per 100,000 population between 2011-2020 has increased near 5 times compared to 2001-2010. 
+
+[![](Q4counties-calls.png)](https://www.datawrapper.de/_/83EsV/)
+[![](Map_ruralcounties.png)](https://www.datawrapper.de/_/NbYDL/)
+
+In rural areas, domestic violence victims have limited resources to seek help. In California, 93 identified domestic violence programs across California served 5591 victims in one day, providing emergency shelter, housing advocacy and educational services. 984 requests for service went unmet due to the lack of resources, according to a report published by National Network to End Domestic Violence in 2021. 
+
+Even for advocacy groups, fighting to provide services to survivors is not easy either. For example, sometimes organizations struggle to make sure the survivors get help immediately in their own language when they call, said Jasmeen Kairam, the Capacity Building Coordinator at California Partnership to End Domestic Violence.
+
+“It could go from anywhere within the day to three days, to get a call back,” said Kairam. “It’s really, really discouraging for folks, especially when they are in crisis. But we have to work with what we have, unfortunately.”
+
+Nearly two years since the day Michelle escaped from the house and decided to never go back, she has been living in a transitional shelter and is going to move out in a couple of months. She was so anxious about leaving the shelter that she has to take anti-depressants to help her sleep. 
+
+But now she feels better. She has been posting resources such as applying for benefits and going back to school on social media, hoping to help more survivors to get back on their feet. 
+
+“It’s just too hard,” Michelle said. “But at least now I feel free.” 
+
+
+
 # Data Analysis
 ## Dataset:
 ### Domestic violence related homicides

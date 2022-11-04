@@ -22,7 +22,7 @@ In California, law enforcement agencies have received more than 160,000 calls fo
 
 For the past two decades, women have been disproportionately susceptible to domestic violence related homicides, according to California Department of Justice data. Every year from 2001 to 2020, most domestic violence related homicide victims are women. In 2013, the percentage is as high as 93%. 
 
-[![](Areachart_gender.png)](https://www.datawrapper.de/_/ayrvU/)
+[![](areachart_gender.png)](https://www.datawrapper.de/_/ayrvU/)
 
 For a woman, the most dangerous place for her is not out in the wild, but in her own home, where one would assume she feels the safest. More than 70% domestic violence related homicide cases happen in the victim’s own residence or a shared residence with someone else, likely the offender, data shows. 
 
@@ -40,10 +40,11 @@ Alexis Bagon, a staff attorney at Asian Pacific Islander Legal Outreach, who wor
 
 While most counties in California are receiving fewer domestic violence calls over the past two decades, some smaller counties are seeing an increase in the calls for service related to domestic violence. In Del Norte county, the far northwest corner of California, the average number of calls related to domestic violence per 100,000 population between 2011-2020 has increased near 5 times compared to 2001-2010. 
 
-[![](Q4counties-calls.png)](https://www.datawrapper.de/_/83EsV/)
-[![](Map_ruralcounties.png)](https://www.datawrapper.de/_/NbYDL/)
+[![](chart_change_in_calls.png)](https://www.datawrapper.de/_/83EsV/)
 
 In rural areas, domestic violence victims have limited resources to seek help. In California, 93 identified domestic violence programs across California served 5591 victims in one day, providing emergency shelter, housing advocacy and educational services. 984 requests for service went unmet due to the lack of resources, according to a report published by National Network to End Domestic Violence in 2021. 
+
+[![](Map_ruralcounties.png)](https://www.datawrapper.de/_/NbYDL/)
 
 Even for advocacy groups, fighting to provide services to survivors is not easy either. For example, sometimes organizations struggle to make sure the survivors get help immediately in their own language when they call, said Jasmeen Kairam, the Capacity Building Coordinator at California Partnership to End Domestic Violence.
 
@@ -189,8 +190,8 @@ We can see the information (instead of the codes) now.
 2. Law Enforcement Response to Domestic Violence Calls for Service [report](https://www.ojp.gov/pdffiles1/nij/grants/215915.pdf) funded by the U.S. Department of Justice
 
 ## Data Visualizations
-1. This is an area chart showing the average number of domestic violence related calls per 100,000 people in California counties during the first and second decade of the 21st century. 
-[![](Q4counties-calls.png)](https://www.datawrapper.de/_/83EsV/)
+1. This is a range plot chart showing the average number of domestic violence related calls per 100,000 people in California counties during the first and second decade of the 21st century. 
+[![](chart_change_in_calls.png)](https://www.datawrapper.de/_/83EsV/)
 2. This a stacked area chart showing the gender distribution of domestic violence related homicide victims. 
-[![](Areachart_gender.png)](https://www.datawrapper.de/_/ayrvU/)
+[![](areachart_gender.png)](https://www.datawrapper.de/_/ayrvU/)
 

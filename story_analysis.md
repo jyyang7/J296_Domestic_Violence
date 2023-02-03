@@ -183,7 +183,7 @@ We can see the information (instead of the codes) now.
 	- Email: [jasmeen@cpedv.org](jasmeen@cpedv.org)
 	- Kairam works at California Partnership to End Domestic Violence, which represents over 1,000 survivors, advocates, organizations and individuals across the state. Kairam has experience working with many other domestic violence organizations in the state, which could also help me gain a better sense of the scope of the problem. 
 3. Michelle, domestic violence survivor
-	- Phone number: +1 (626) 557-7765
+	- Phone number
 	- Michelle lives in Los Angeles with her kid. She escaped her home after having the fight with her ex-husband. Her ex-husband didn’t beat her, but there was a lot of emotional abuse. She lives in a shelter now and is about to move out. I’m really grateful that she’s willing to talk to me about such a private experience.  
 ### Additional Sources
 1. [15th Annual Domestic Violence Counts Report](https://nnedv.org/wp-content/uploads/2021/05/15th-Annual-DV-Counts-Report-California-Summary.pdf) from National Network to End Domestic Violence (2021)
